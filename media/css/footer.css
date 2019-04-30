@@ -1,0 +1,43 @@
+.connection_link{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #fff;
+    margin-top: 10px;
+    padding: inherit;
+}
+.connection_link .conect_link{
+    font-size: 25px;
+    padding: 0 0 0 55px;
+}
+.conect_link .Facebook i{
+    color: #3b5998;
+    padding: 2px;
+}
+.conect_link .LinkedIn i{
+    color: #0077B5;
+    padding: 2px;
+}
+.conect_link .Twitter i{
+    color: #1dcaff;
+    padding: 2px;
+}
+.connection_link .menu_down ul li{
+    list-style: none;
+    font-size: 14px;
+    color: #333;
+}
+.connection_link .menu_down ul li:before{
+  content: '✓';
+}
+.connection_link .menu_down ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 20px 0;
+}
+
+.copyright{
+	padding: 10px 0;
+}
+.copyright p {
+	text-align: center;
+}
